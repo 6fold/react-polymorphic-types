@@ -1,5 +1,10 @@
 # react-polymorphic-types
 
+> Note: fork of the original library, makes the following changes:
+>
+> - Publishes the package under `sixfold` scope in a private registry.
+> - Fixes the return type: https://github.com/kripod/react-polymorphic-types/pull/13
+
 Zero-runtime polymorphic component definitions for React
 
 [![npm](https://img.shields.io/npm/v/react-polymorphic-types)](https://www.npmjs.com/package/react-polymorphic-types)

@@ -1,5 +1,5 @@
 {
-	"name": "react-polymorphic-types",
+	"name": "@sixfold/react-polymorphic-types",
 	"version": "2.0.0",
 	"description": "Zero-runtime polymorphic component definitions for React",
 	"keywords": [
@@ -28,7 +28,8 @@
 	],
 	"scripts": {
 		"format": "prettier --ignore-path ./.gitignore --write .",
-		"type-check": "tsc"
+		"type-check": "tsc",
+		"authenticate": "npx google-artifactregistry-auth"
 	},
 	"devDependencies": {
 		"@types/react": "^17.0.14",
