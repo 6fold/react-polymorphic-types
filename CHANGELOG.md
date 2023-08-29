@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.4] - 2023-08-29
+
+### Fixed
+
+- Remove the separate types, reference `React.FunctionComponent` return type directly.
+
 ## [2.0.3] - 2023-07-13
 
 ### Fixed
