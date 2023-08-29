@@ -36,7 +36,7 @@ type PolymorphicExoticComponent<
 		 */
 		<InstanceT extends React.ElementType = T>(
 			props: PolymorphicPropsWithRef<P, InstanceT>,
-		): React.ReactNode | null;
+		): ReturnType<React.FunctionComponent>;
 	}
 >;
 
