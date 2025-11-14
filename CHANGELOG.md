@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.5] - 2025-11-14
+
+### Fixed
+
+- Improve `esm` support by excplicitly exporting types.
+
 ## [2.0.4] - 2023-08-29
 
 ### Fixed
