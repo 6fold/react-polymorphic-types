@@ -8,6 +8,6 @@
 		"jsx": "react-jsx",
 		"strict": true,
 		"forceConsistentCasingInFileNames": true,
-		"importsNotUsedAsValues": "error"
+		"verbatimModuleSyntax": true
 	}
 }
